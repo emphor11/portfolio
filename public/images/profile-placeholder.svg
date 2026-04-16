@@ -1,0 +1,16 @@
+<svg width="800" height="1000" viewBox="0 0 800 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="1000" rx="48" fill="#0A0A0A"/>
+  <rect x="32" y="32" width="736" height="936" rx="32" fill="url(#paint0_linear_1_2)" stroke="rgba(255,255,255,0.08)"/>
+  <circle cx="400" cy="320" r="132" fill="#111827"/>
+  <path d="M200 780C228 639 309 568 400 568C491 568 572 639 600 780" fill="#111827"/>
+  <path d="M124 130H676" stroke="#22D3EE" stroke-opacity="0.35" stroke-width="2"/>
+  <path d="M124 868H676" stroke="#F59E0B" stroke-opacity="0.35" stroke-width="2"/>
+  <text x="400" y="920" fill="#E5E7EB" font-family="Arial, sans-serif" font-size="28" text-anchor="middle">Replace with your photo</text>
+  <defs>
+    <linearGradient id="paint0_linear_1_2" x1="96" y1="88" x2="710" y2="915" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#082F49"/>
+      <stop offset="0.5" stop-color="#111827"/>
+      <stop offset="1" stop-color="#451A03"/>
+    </linearGradient>
+  </defs>
+</svg>
